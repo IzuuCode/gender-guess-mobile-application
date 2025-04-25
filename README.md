@@ -1,16 +1,29 @@
-# gender
+🎯 Gender Guessing Application
+This is a simple and interactive Gender Guessing Application that predicts a user's gender based on the input they provide. The application can use various data types such as names, textual descriptions, or other predefined attributes to make a prediction. Built with user-friendly UI and intelligent logic, it offers a fast and engaging experience.
 
-A new Flutter project.
+🚀 Features
+🧠 Predicts gender based on user input
 
-## Getting Started
+📥 Supports manual input or file upload (e.g., text or name list)
 
-This project is a starting point for a Flutter application.
+🔍 Lightweight and fast predictions
 
-A few resources to get you started if this is your first Flutter project:
+💡 Can be extended to support machine learning models
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📱 Clean, responsive interface
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠️ Technologies Used
+
+Flutter /Dart
+
+🔧 How to Use
+Clone the repository
+
+Run the app using your preferred environment
+
+Enter or upload input
+
+Get the predicted gender
+
+
+contact = isurujayanada2002@gmail.com
